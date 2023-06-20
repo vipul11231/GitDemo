@@ -17,9 +17,20 @@ public class Selintroduction {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\rws\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
-		System.out.println("postjira");
-		System.out.println("postjira");
-		System.out.println("postjira");
+		System.out.println("postjira1");
+		System.out.println("postjira2");
+		System.out.println("postjira3");
+		//
+		//
+		//
+		//
+		//
+		//
+		//
+		System.out.println("postjira4");
+		System.out.println("postjira5");
+		System.out.println("postjira6");
+		System.out.println("postjira7");
 		
 		driver.get("https://travelsunique.in");
 		System.out.println(driver.getTitle());	
