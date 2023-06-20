@@ -12,6 +12,11 @@ public class Core_Java {
 		System.out.println(myNum+" is the value stored in myNum variable");
 		System.out.println(Name);
 
+		System.out.println("postjira4");
+		System.out.println("postjira5");
+		System.out.println("postjira6");
+		System.out.println("postjira7");
+		
 		//Array -
 		int[] arr = new int[7];
 		arr[0] = 1;
